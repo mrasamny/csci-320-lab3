@@ -121,6 +121,6 @@ Of course, the function or functions you implement to handle the validation of t
 
 ## Using the Template and Cloning
 
-The lab is on your <a href="https://www.github.com/mrasamny/csci-320-lab2.git">instructor's Github repo</a> as public template.  This allows you to click the <span style="background-color:green; color:white;">&nbsp;&nbsp;Use template&nbsp;&nbsp;</span> button on the instructor's repo page.  This will duplicate the repo on your account.  You can then clone your own repo of the lab and push updates and the final submission.
+The lab is on your <a href="https://www.github.com/mrasamny/csci-320-lab2.git">instructor's Github repo</a> as public template.  This allows you to click the <span style="background-color:green; color:white;">&nbsp;&nbsp;Use this template&nbsp;&nbsp;</span> button on the instructor's repo page.  This will duplicate the repo on your account.  You can then clone your own repo of the lab and push updates and the final submission.
 
-NOTE:  It is very important that you click on the <span style="background-color:green; color:white;">&nbsp;&nbsp;Use template&nbsp;&nbsp;</span> button as your instructor will clone your repo to grade your lab.
+NOTE:  It is very important that you click on the <span style="background-color:green; color:white;">&nbsp;&nbsp;Use this template&nbsp;&nbsp;</span> button as your instructor will clone your repo to grade your lab.
